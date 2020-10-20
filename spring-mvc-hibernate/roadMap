@@ -1,0 +1,16 @@
+customer Service
+	interface 
+		getCustomers
+	class Impl
+	inject customerDao
+	delegaute the call to the DAO
+	add the tranaction to the service
+DAO
+	remove transaction
+
+Controller
+	not inject DAO
+	inject the service
+	call the service in place of DAO
+	
+	
