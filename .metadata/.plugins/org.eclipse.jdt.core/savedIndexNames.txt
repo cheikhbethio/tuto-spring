@@ -1,0 +1,27 @@
+INDEX VERSION 1.131+/home/moussa/prog/java/spring/tuto-spring-git/.metadata/.plugins/org.eclipse.jdt.core
+3990870343.index
+4023808133.index
+2542030817.index
+843236354.index
+2886333240.index
+1942061149.index
+3225647864.index
+2339468635.index
+830953454.index
+4293591586.index
+2806529179.index
+1996119313.index
+1238854293.index
+2935945102.index
+2106185627.index
+180141999.index
+1289671447.index
+306499985.index
+3918707820.index
+646308851.index
+445708821.index
+331002178.index
+3388409512.index
+784943329.index
+1149345088.index
+2781448030.index
