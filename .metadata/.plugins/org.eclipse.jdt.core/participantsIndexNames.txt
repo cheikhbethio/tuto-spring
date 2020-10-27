@@ -3,6 +3,8 @@ INDEX VERSION 1.131
 /spring-security-demo/src/main/java
 /home/moussa/prog/java/spring/tuto-spring-git/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1899196484.index
 /spring-security-demo-02-base-security-custom-login-form/src/main/java
+/home/moussa/prog/java/spring/tuto-spring-git/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/388236076.index
+/spring-crm-rest/src/main/java
 /home/moussa/prog/java/spring/tuto-spring-git/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/985762177.index
 /spring-security-demo-02-base-security/src/main/java
 /home/moussa/prog/java/spring/tuto-spring-git/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1256457432.index

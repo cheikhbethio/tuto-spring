@@ -1,0 +1,5 @@
+package moussa.tuto.jackson.json;
+
+public class Student {
+
+}

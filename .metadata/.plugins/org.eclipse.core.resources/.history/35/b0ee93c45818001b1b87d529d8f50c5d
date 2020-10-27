@@ -1,0 +1,24 @@
+package moussa.tuto.jackson.json;
+
+import com.fasterxml.jackson.databind.ObjectMapper;
+
+public class Driver {
+
+	public static void main(String[] args) {
+
+		try {
+			// create mapper
+			ObjectMapper mapper = new ObjectMapper();
+			
+			// red file to map/convert to java  POJO
+			Student mappedStudent = mapper.readValue("d1ata/sample-lite.json", Student.class);
+			
+			// print json
+			System.out.println("++++++ " + mappedStudent.toString());
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+
+	}
+
+}
